@@ -712,7 +712,7 @@ model moves from **training code to an actual user-facing application**.
 
 ## 👨‍💻 Author
 
-**CodeWizard**
+**Anjan Pal**
 
 Built as a PyTorch multiclass classification and Streamlit deployment
 project.
