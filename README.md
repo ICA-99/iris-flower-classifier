@@ -16,6 +16,11 @@ a Streamlit application for real-time predictions.
 
 ------------------------------------------------------------------------
 
+## 🌐 Live Demo
+
+🚀 **[Open Iris Flower Classifier](https://iris-flower-classifier-9nvr2nzcx7jouiabwjwt2k.streamlit.app/)**
+
+
 ## 🚀 Project Overview
 
 The complete machine learning pipeline is:
